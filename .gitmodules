@@ -1,0 +1,3 @@
+[submodule "src/ui-components"]
+	path = src/ui-components
+	url = git@github.com:bachata-store/ui-components.git
