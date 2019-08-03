@@ -2,6 +2,9 @@
 /dist
 /node_modules
 
+# submodules
+/frontend
+
 # Logs
 logs
 *.log
